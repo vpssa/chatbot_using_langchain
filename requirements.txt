@@ -1,0 +1,9 @@
+six
+protobuf==3.9.2
+Flask
+sentence-transformers
+faiss-cpu
+numpy
+langchain
+langchain-community
+unstructured
