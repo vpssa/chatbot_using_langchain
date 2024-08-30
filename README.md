@@ -2,6 +2,8 @@
 
 **To get started**
 
+!!! Try to use virtual environment (conda or miniconda)
+
 **STEP 1 -** install all required dependencies
 
 ```bash
